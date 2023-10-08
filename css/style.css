@@ -968,6 +968,7 @@ body::after {
 }
 
 .building-bg-mob {
+  width: 100%;
   display: none;
 }
 
